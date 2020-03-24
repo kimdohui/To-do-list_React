@@ -1,0 +1,6 @@
+"singleQuote": true,        //싱글 쿼테이션 사용여부
+  "semi": true,         //세미콜론 사용여부         
+  "useTabs": false,       //탭사용 여부
+  "tabWidth": 2,             //탭 너비
+  "trailingComma": "all",        //여러줄 사용 시 후행 콤마 사용 방식 
+  "printWidth": 80              //줄 바꿈할 폭 길이
