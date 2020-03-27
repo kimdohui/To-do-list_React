@@ -5,7 +5,7 @@ import TodoList from './TodoList';
 
 function createBulkTodos() {
   const array = [];
-  for (let i; i <= 2500; i++) {
+  for (let i = 1; i <= 2500; i++) {
     array.push({
       id: i,
       text: `할일 ${i}`,
